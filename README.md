@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Po'latov%20Ezozbek
+I'm Po'latov Ezozbek
 
 <p align="center">
   
@@ -26,7 +26,7 @@ I'm Po'latov%20Ezozbek
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
     <font color="#00FF00" size="4">
-      ⚡ Sotimboyev Sadulla | Portfolio va profil sahifamga xush kelibsiz! | Frontend & Web Developer 🚀
+      ⚡ Po'latov Ezozbek| Portfolio va profil sahifamga xush kelibsiz! | Frontend & Web Developer 🚀
     </font>
   </marquee>
 </p>

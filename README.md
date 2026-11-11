@@ -36,7 +36,7 @@ I'm Po'latov Ezozbek
 <!-- 2. Klaviaturada harakatlanib yozilayotgandek ko'rinuvchi matn (Typing effect) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Assalomu+alaykum!;MenPo'latov%20Ezozbekman;Frontend+Dasturchiman+%F0%9F%92%BB;Xush+kelibsiz!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Assalomu+alaykum!;MenPo'latov %20Ezozbekman;Frontend+Dasturchiman+%F0%9F%92%BB;Xush+kelibsiz!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
